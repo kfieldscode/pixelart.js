@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    font-family: Monospace;
+}
+
+h1 {
+    font-size: 2em;
+    text-decoration: underline;
+    color: grey;
+}
+
+h4 {
+    margin: 1em 0 1em;
+    text-align: center;
+    text-decoration: underline;
+    color: grey; 
+}
+
+table,
+tr,
+td {
+    border: silver 1px dotted;
+}
+
+.grid-canvas {
+    background-color: white;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 3em;
+    border: 1px solid grey;
+}
+
+.submit-button {
+    background: linear-gradient(white 10%, #f2f6fc 100%);
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+.color-picker {
+    background: none;
+    padding: 0;
+    border: none;
+    width: 22px;
+    height: 25px;
+    cursor: pointer;
+}
