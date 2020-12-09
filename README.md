@@ -1,4 +1,4 @@
-# pixelart.js
+# Pixel Art Maker JS
 
 My first Javascript project from early 2019! A pixel-art maker in Javascript, made with pure Javascript, CSS, and HTML.
 
